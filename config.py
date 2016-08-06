@@ -5,7 +5,7 @@ KindleEar配置文件，请务必修改开始两个配置（如果使用uploader
 """
 
 SRC_EMAIL = "liwei99@gmail.com"  #Your gmail account for sending mail to Kindle
-DOMAIN = "https://liwei100.appspot.com" #Your domain of app
+DOMAIN = "https://liweixm2.appspot.com" #Your domain of app
 
 TIMEZONE = 8  #Default timezone, you can modify it in webpage after deployed
 
